@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ayse Kumsal Tekirdag Kosar, PhD</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Cell Biologist and Postdoctoral Scientist with over 9 years of research experience on non-coding RNAs and cellular degradation mechanisms (different autophagy pathways) in health and disease states such as Parkinson’s Disease.&lt;/p&gt;
+&lt;p&gt;My scientific approach is well grounded and detail-oriented, it has matured through my intense PhD and postdoctoral training during which I have published multiple manuscripts, contributed to grants, and mentored several trainees. Furthermore, I have collaborated with numerous international teams and biotech companies during these years.&lt;/p&gt;
+&lt;p&gt;Some of my strengths are excellence in laboratory and project management, critical thinking, rigorous planning and timely advancement towards measurable outcomes.&lt;/p&gt;
+&lt;p&gt;I define myself as an intuitive and insightful person who contributes significantly to optimization and improvement of the organization as well as my personal growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
