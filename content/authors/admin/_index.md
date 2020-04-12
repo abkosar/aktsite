@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include autophagy regulation by microRNAs, antisense oligonucleotide biology and Parkinson’s Disease therapeutics
 education:
   courses:
   - course: PhD in Biological Sciences and Bioengineering

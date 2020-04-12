@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gozde Korkmaz, PhD | Ayse Kumsal Tekirdag Kosar, PhD</title>
+    <link>/authors/gozde-korkmaz-phd/</link>
+      <atom:link href="/authors/gozde-korkmaz-phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gozde Korkmaz, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gozde Korkmaz, PhD</title>
+      <link>/authors/gozde-korkmaz-phd/</link>
+    </image>
+    
+    <item>
+      <title>MIR376A is a Regulator of Starvation-Induced Autophagy</title>
+      <link>/publication/mir376a_starvation-induced-autophagy/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/mir376a_starvation-induced-autophagy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIR181A regulates starvation- and rapamycin-induced autophagy through targeting of ATG5</title>
+      <link>/publication/mir181a_regualtes_starvation/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/mir181a_regualtes_starvation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

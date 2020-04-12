@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Chapter | Ayse Kumsal Tekirdag Kosar, PhD</title>
+    <link>/tags/book-chapter/</link>
+      <atom:link href="/tags/book-chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Book Chapter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Book Chapter</title>
+      <link>/tags/book-chapter/</link>
+    </image>
+    
+    <item>
+      <title>Regulation of autophagy by miRNAs</title>
+      <link>/publication/regulation_of_authophagy_book_chapter/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/regulation_of_authophagy_book_chapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Cell Biologist and Postdoctoral Scientist with over 9 years of research experience on non-coding RNAs and cellular degradation mechanisms (different autophagy pathways) in health and disease states such as Parkinson’s Disease.&lt;/p&gt;
 &lt;p&gt;My scientific approach is well grounded and detail-oriented, it has matured through my intense PhD and postdoctoral training during which I have published multiple manuscripts, contributed to grants, and mentored several trainees. Furthermore, I have collaborated with numerous international teams and biotech companies during these years.&lt;/p&gt;
@@ -25,10 +25,66 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <title>Ana Maria Cuervo, MD PhD</title>
+      <link>/authors/ana-maria-cuervo-md-phd/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/ana-maria-cuervo-md-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ali Kosar, PhD</title>
+      <link>/authors/ali-kosar-phd/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/ali-kosar-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devrim Gozuacik, MD PhD</title>
+      <link>/authors/devrim-gozuacik-md-phd/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/devrim-gozuacik-md-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunus Akkoc, PhD</title>
+      <link>/authors/yunus-akkoc-phd/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/yunus-akkoc-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deniz Gulfem Ozturk, PhD</title>
+      <link>/authors/deniz-gulfem-ozturk-phd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/deniz-gulfem-ozturk-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gozde Korkmaz, PhD</title>
+      <link>/authors/gozde-korkmaz-phd/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/gozde-korkmaz-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Osman Ugur Sezerman, PhD</title>
+      <link>/authors/osman-ugur-sezerman-phd/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/osman-ugur-sezerman-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reuven Agami, PhD</title>
+      <link>/authors/reuven-agami-phd/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/reuven-agami-phd/</guid>
       <description></description>
     </item>
     

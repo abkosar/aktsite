@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deniz Gulfem Ozturtk, PhD | Ayse Kumsal Tekirdag Kosar, PhD</title>
+    <link>/authors/deniz-gulfem-ozturtk-phd/</link>
+      <atom:link href="/authors/deniz-gulfem-ozturtk-phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deniz Gulfem Ozturtk, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Deniz Gulfem Ozturtk, PhD</title>
+      <link>/authors/deniz-gulfem-ozturtk-phd/</link>
+    </image>
+    
+    <item>
+      <title>MIR181A regulates starvation-and rapamycin-induced autophagy through targeting of ATG5</title>
+      <link>/publication/mir376_family_and_canceer/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/mir376_family_and_canceer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

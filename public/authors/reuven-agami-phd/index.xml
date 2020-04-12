@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reuven Agami, PhD | Ayse Kumsal Tekirdag Kosar, PhD</title>
+    <link>/authors/reuven-agami-phd/</link>
+      <atom:link href="/authors/reuven-agami-phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reuven Agami, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Reuven Agami, PhD</title>
+      <link>/authors/reuven-agami-phd/</link>
+    </image>
+    
+    <item>
+      <title>MIR181A regulates starvation- and rapamycin-induced autophagy through targeting of ATG5</title>
+      <link>/publication/mir181a_regualtes_starvation/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/mir181a_regualtes_starvation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
