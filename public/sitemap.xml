@@ -93,17 +93,17 @@
   </url>
   
   <url>
+    <loc>/tags/journal-article/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
     <lastmod>2017-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,6 +173,11 @@
   </url>
   
   <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/yunus-akkoc-phd/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -238,6 +243,16 @@
   </url>
   
   <url>
+    <loc>/publication/role-of-micrornas-in-the-regulation-of-autophagy/</loc>
+    <lastmod>2013-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/alteration-in-autophagic-lysosomal-potential/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/mir181a_regualtes_starvation/</loc>
     <lastmod>2013-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -245,6 +260,16 @@
   <url>
     <loc>/authors/reuven-agami-phd/</loc>
     <lastmod>2013-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carlos-le-sage-phd/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mir-376b-controls-starvation-and-mtor-/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

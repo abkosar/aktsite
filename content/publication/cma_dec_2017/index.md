@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2017-12-15T00:00:00Z"
 summary: 
 tags:
-- Source Themes
+- Journal Article
 title: Chaperone-mediated autophagy and endosomal microautophagy
 url_code: ""
 url_dataset: ""

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devrim Gozuacik, MD PhD | Ayse Kumsal Tekirdag Kosar, PhD</title>
-    <link>/authors/devrim-gozuacik-md-phd/</link>
-      <atom:link href="/authors/devrim-gozuacik-md-phd/index.xml" rel="self" type="application/rss+xml" />
-    <description>Devrim Gozuacik, MD PhD</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <title>Journal Article | Ayse Kumsal Tekirdag Kosar, PhD</title>
+    <link>/tags/journal-article/</link>
+      <atom:link href="/tags/journal-article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journal Article</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Devrim Gozuacik, MD PhD</title>
-      <link>/authors/devrim-gozuacik-md-phd/</link>
+      <title>Journal Article</title>
+      <link>/tags/journal-article/</link>
     </image>
     
     <item>
-      <title>MIR376 family and cancer</title>
-      <link>/publication/mir376_family_and_cancer/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/mir376_family_and_cancer/</guid>
+      <title>Chaperone-mediated autophagy and endosomal microautophagy</title>
+      <link>/publication/cma_dec_2017/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cma_dec_2017/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -32,22 +32,6 @@
     </item>
     
     <item>
-      <title>Regulation of autophagy by miRNAs</title>
-      <link>/publication/regulation_of_authophagy_book_chapter/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/regulation_of_authophagy_book_chapter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIR376A is a Regulator of Starvation-Induced Autophagy</title>
-      <link>/publication/mir376a_starvation-induced-autophagy/</link>
-      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/mir376a_starvation-induced-autophagy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Role of microRNAs in the regulation of autophagy</title>
       <link>/publication/role-of-micrornas-in-the-regulation-of-autophagy/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
@@ -60,14 +44,6 @@
       <link>/publication/alteration-in-autophagic-lysosomal-potential/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
       <guid>/publication/alteration-in-autophagic-lysosomal-potential/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIR181A regulates starvation- and rapamycin-induced autophagy through targeting of ATG5</title>
-      <link>/publication/mir181a_regualtes_starvation/</link>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/mir181a_regualtes_starvation/</guid>
       <description></description>
     </item>
     
