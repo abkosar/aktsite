@@ -12,9 +12,10 @@ education:
     year: 2010
 email: ""
 interests:
-- Cell Biology
-- Placeholder
-- Placeholder
+- Autophagy
+- microRNAs
+- Antisense Oligonucleotides
+- Parkinson's Disease
 name: Ayse Kumsal Tekirdag Kosar, PhD
 organizations:
 - name: Albert Einstein College of Medicine
